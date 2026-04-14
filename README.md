@@ -10,6 +10,10 @@
 #### 3] Predicting Heart Disease (Feb 2026 - Feb 2026)
 ##### The goal of this project is to predict the presence of heart disease in patients based on clinical parameters such as age, cholesterol levels, and maximum heart rate. It focuses on binary classification and analyzing key health indicators to provide early diagnostic insights.
 
+#### 4] Predict Customer Churn (March 2026 - March 2026)
+
+##### This project builds a model that analyzes customer service usage data to predict customers who are likely to turn in the future. It aims to analyze various characteristics such as customer usage patterns, contract types, and pricing plan information to identify factors of departure and provide preemptive data insights to minimize business losses.
+
 ## This repository will demonstrate following skills
 
 #### 1] Exploratory Data Analysis (EDA)
